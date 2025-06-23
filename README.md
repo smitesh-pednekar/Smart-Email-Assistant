@@ -114,18 +114,6 @@ The extension will appear as a sidebar in Gmail. Start composing smarter replies
 
 ---
 
-## 📸 **See It In Action**
-
-<div align="center">
-
-| **Gmail Integration** | **AI Reply Generation** |
-|:---:|:---:|
-| <img src="https://via.placeholder.com/400x300/4285F4/ffffff?text=Gmail+Sidebar" alt="Gmail Integration" width="400"/> | <img src="https://via.placeholder.com/400x300/FF6B6B/ffffff?text=AI+Reply+Magic" alt="AI Reply" width="400"/> |
-
-</div>
-
----
-
 ## 📊 **Impact Metrics**
 
 <div align="center">
